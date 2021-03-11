@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Lobes vs Gradient
 weight: 1
 seo:
   title: Overview
