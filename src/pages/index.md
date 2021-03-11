@@ -21,7 +21,7 @@ sections:
           cerebellum or whatever you want.
         actions:
           - label: Learn More
-            url: /docs
+            url: /brain
             style: link
       - title: Tests
         content: >
