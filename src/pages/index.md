@@ -48,7 +48,7 @@ sections:
       Blah blah look how cool and clever we are. Wow, this is all really
       fascinating information. Delirium you say? How intriguing.
     actions:
-      - label: View Demo
+      - label: A button!
         url: /docs/getting-started
         style: primary
       - label: Get Started
