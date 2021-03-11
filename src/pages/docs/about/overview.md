@@ -21,6 +21,7 @@ seo:
     - name: 'twitter:description'
       value: This is the overview page
 template: docs
+excerpt: Science
 ---
 
 <div class="note">
