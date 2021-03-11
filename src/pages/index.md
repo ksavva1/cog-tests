@@ -57,10 +57,10 @@ sections:
   - section_id: text-no-img
     type: section_content
     title: A Section Without Image
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      So much information to fill in. Sections for days. Wow, aren't we just the
+      best. Cerebellum, Covid, CCAS, countless slots for countless words. Text
+      text text text text.
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
