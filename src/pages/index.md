@@ -75,7 +75,9 @@ sections:
         style: primary
 seo:
   title: Cognitive Tests
-  description: The preview of the Libris theme
+  description: >-
+    A selection of games to test cognition before, during, and after Covid-19
+    infection.
   extra:
     - name: 'og:type'
       value: website
