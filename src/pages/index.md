@@ -25,7 +25,7 @@ sections:
             style: link
       - title: Tests
         content: >
-          A summary of what the page would contain. Say, an intro to the
+          A summary of what the page would contain. Like an intro to the
           cognitive tests or whatever you want.
         actions:
           - label: View Posts
