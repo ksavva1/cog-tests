@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Cognitive Tests
-    image: images/5.jpg
+    image: images/brain-tumor-treatment-radiology-web.jpeg
     content: |
       Subtitle goes here. Brief intro to the site, etc.
     actions:
@@ -20,15 +20,15 @@ sections:
           A summary of what the page would contain. Say, a bit of into about the
           cerebellum or whatever you want.
         actions:
-          - label: Get Started
+          - label: Learn More
             url: /docs
             style: link
       - title: Tests
         content: >
-          A summary of what the page would contain. Say, an intro to the
+          A summary of what the page would contain. Like an intro to the
           cognitive tests or whatever you want.
         actions:
-          - label: View Posts
+          - label: View Tests
             url: /blog
             style: link
       - title: Something
@@ -65,30 +65,6 @@ sections:
       - label: More buttons
         url: /docs/getting-started/installation
         style: primary
-  - section_id: features-two-col
-    type: section_grid
-    title: Sample Layouts
-    subtitle: An optional subtitle of the section
-    col_number: two
-    grid_items:
-      - title: Overview
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
-        actions:
-          - label: Learn More
-            url: /overview
-            style: link
-      - title: Showcase
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
-        actions:
-          - label: Learn More
-            url: /showcase
-            style: link
   - section_id: cta
     type: section_cta
     title: Big box for important things

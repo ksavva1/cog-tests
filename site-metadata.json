@@ -1,9 +1,9 @@
 {
-    "palette": "blue",
+    "palette": "navy",
     "header": {
-        "title": "Libris",
-        "logo_img": "images/logo.svg",
-        "logo_img_alt": "Libris logo",
+        "title": "Cognitive Tests",
+        "logo_img": "images/Warwick.jpeg",
+        "logo_img_alt": "Warwick Logo",
         "has_nav": true,
         "nav_links": [
             {
@@ -20,12 +20,6 @@
             },
             {
                 "label": "Tests",
-                "url": "/tests",
-                "style": "link",
-                "has_subnav": false
-            },
-            {
-                "label": "Drop Down for Fun",
                 "url": "#",
                 "style": "link",
                 "has_subnav": true,
@@ -36,9 +30,18 @@
                         "style": "link"
                     },
                     {
-                        "label": "Showcase",
+                        "label": "Game 1",
                         "url": "/showcase",
                         "style": "link"
+                    },
+                    {
+                        "label": "Game 2",
+                        "url": "#",
+                        "style": "link",
+                        "icon_class": "dev",
+                        "new_window": false,
+                        "no_follow": false,
+                        "type": "action"
                     }
                 ]
             },
@@ -57,23 +60,8 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=libris&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
         "has_social": true,
         "social_links": [
-            {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "icon",
-                "icon_class": "twitter",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon_class": "linkedin",
-                "new_window": true
-            },
             {
                 "label": "GitHub",
                 "url": "https://github.com/",
@@ -81,8 +69,10 @@
                 "icon_class": "github",
                 "new_window": true
             }
-        ]
+        ],
+        "content": "Made by a very sleep deprived Katie"
     },
-    "title": "Stackbit Libris Theme",
-    "domain": "https://cog-tests-a5ea1.netlify.app"
+    "title": "Cognitive Tests",
+    "domain": "https://cog-tests.netlify.app",
+    "favicon": "images/Warwick.jpeg"
 }
