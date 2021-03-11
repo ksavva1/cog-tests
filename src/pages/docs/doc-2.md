@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Doc 1
 weight: 0
 excerpt: lorem-ipsum
 seo:
