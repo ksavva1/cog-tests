@@ -20,7 +20,7 @@
             },
             {
                 "label": "Tests",
-                "url": "/blog",
+                "url": "/tests",
                 "style": "link",
                 "has_subnav": false
             },
