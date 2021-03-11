@@ -87,5 +87,6 @@
         "content": "Made by a very sleep deprived Katie"
     },
     "title": "Cognitive Tests",
-    "domain": "https://cog-tests.netlify.app"
+    "domain": "https://cog-tests.netlify.app",
+    "favicon": "images/Warwick.jpeg"
 }
