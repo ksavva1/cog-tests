@@ -1,6 +1,6 @@
 ---
 title: The Tests
-subtitle: lorem-ipsum
+subtitle: An overview of all the games
 seo:
   title: ''
   description: ''
