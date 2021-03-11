@@ -51,7 +51,7 @@ sections:
       - label: A button!
         url: /docs/getting-started
         style: primary
-      - label: Get Started
+      - label: Another button!
         url: /docs/getting-started
         style: secondary
   - section_id: text-no-img
