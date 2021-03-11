@@ -1,6 +1,6 @@
 ---
 title: The Cerebellum
-subtitle: lorem-ipsum
+subtitle: Information about the Cerebellum
 seo:
   title: ''
   description: ''
