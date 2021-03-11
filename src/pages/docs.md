@@ -3,7 +3,7 @@ title: Doc 1
 sections:
   - title: Games Overview
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Subtitle
     col_number: three
     type: section_docs
   - title: CTA section
