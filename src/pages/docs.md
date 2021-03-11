@@ -1,7 +1,7 @@
 ---
 title: Doc 1
 sections:
-  - title: Overview Section
+  - title: Games Overview
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
