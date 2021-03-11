@@ -18,7 +18,7 @@ sections:
           *   Brain area it tests for 2
         actions: []
         type: grid_item
-        image: images/3.jpg
+        image: images/stock3.jpeg
       - title: Game 2
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
