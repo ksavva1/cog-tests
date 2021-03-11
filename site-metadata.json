@@ -61,7 +61,8 @@
                 "style": "primary",
                 "has_subnav": false
             }
-        ]
+        ],
+        "url": "/"
     },
     "footer": {
         "has_social": true,
