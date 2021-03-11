@@ -9,9 +9,9 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-## Lorem ipsum
+## Sub Heading
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Test text with some **bold text **thrown in for *fun.*
 
-- Lorem ipsum
-- dolor sit amet
+*   Bullet points make things seem more important.
+*   Another one because why not.
