@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: The Cerebellum
 subtitle: lorem-ipsum
 seo:
   title: ''
