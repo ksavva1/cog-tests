@@ -3,7 +3,7 @@
     "header": {
         "title": "Libris",
         "logo_img": "images/Warwick.jpeg",
-        "logo_img_alt": "Libris logo",
+        "logo_img_alt": "Warwick Logo",
         "has_nav": true,
         "nav_links": [
             {
