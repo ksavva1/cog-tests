@@ -1,5 +1,5 @@
 ---
-title: Doc 1
+title: Info on Test 1
 weight: 0
 excerpt: Doc 1
 seo:
