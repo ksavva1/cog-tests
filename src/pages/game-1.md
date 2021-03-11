@@ -2,7 +2,7 @@
 title: Game 1
 sections:
   - title: Game 1
-    section_id: lorem-ipsum
+    section_id: Intro
     image_alt: lorem-ipsum
     image_position: left
     content: >-
