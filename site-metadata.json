@@ -25,7 +25,7 @@
                 "has_subnav": false
             },
             {
-                "label": "More Info",
+                "label": "Drop Down for Fun",
                 "url": "#",
                 "style": "link",
                 "has_subnav": true,
