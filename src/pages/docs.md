@@ -34,7 +34,7 @@ sections:
         title_url: /game-3
         image_alt: lorem-ipsum
         content: |
-          ## Title
+          #### Title
 
           Test overview information the quick brown fox jumps over the lazy dog.
 
