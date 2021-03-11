@@ -13,4 +13,4 @@ template: page
 
 Info about all of the games that we will have. This is the overview page.
 
-> These games are really great - Katie
+> "These games are really great"
