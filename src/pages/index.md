@@ -71,7 +71,7 @@ sections:
     subtitle: Description of the important things
     actions:
       - label: Get Started
-        url: /docs/getting-started/installation
+        url: /
         style: primary
 seo:
   title: Cognitive Tests
