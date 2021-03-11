@@ -9,6 +9,11 @@ sections:
       Game goes here
     actions: []
     type: section_content
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    type: section_cta
 seo:
   title: ''
   description: ''
