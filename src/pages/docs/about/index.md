@@ -20,6 +20,7 @@ seo:
     - name: 'twitter:description'
       value: This is the about page
 template: docs
+excerpt: Lobes vs Gradient
 ---
 
 Ut quis consequat risus. Aenean ut porta ligula. Morbi id ante eu nisi suscipit maximus. Fusce ac congue quam. Nulla id elit facilisis, consequat magna vitae, scelerisque elit. Nullam lacinia elit in arcu scelerisque, ac volutpat neque sodales.
