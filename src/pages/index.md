@@ -41,7 +41,7 @@ sections:
             style: link
   - section_id: text-img
     type: section_content
-    image: images/brain.jpeg
+    image: images/clipart933808.png
     image_position: left
     title: A Section With An Image
     content: >
