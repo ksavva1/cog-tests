@@ -9,7 +9,7 @@ sections:
       Game goes here
     actions: []
     type: section_content
-  - title: lorem-ipsum
+  - title: Example block
     section_id: lorem-ipsum
     content: >-
       ## Lorem ipsum
