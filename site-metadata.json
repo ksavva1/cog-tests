@@ -14,7 +14,7 @@
             },
             {
                 "label": "Brain",
-                "url": "/docs",
+                "url": "/brain",
                 "style": "link",
                 "has_subnav": false
             },
