@@ -13,30 +13,34 @@
                 "has_subnav": false
             },
             {
-                "label": "The Brain",
-                "url": "/docs",
+                "label": "Brain",
+                "url": "/brain",
                 "style": "link",
                 "has_subnav": false
             },
             {
                 "label": "Tests",
-                "url": "#",
+                "url": "/docs",
                 "style": "link",
                 "has_subnav": true,
                 "subnav_links": [
                     {
-                        "label": "Overview",
-                        "url": "/overview",
-                        "style": "link"
-                    },
-                    {
                         "label": "Game 1",
-                        "url": "/showcase",
+                        "url": "/game-1",
                         "style": "link"
                     },
                     {
                         "label": "Game 2",
-                        "url": "#",
+                        "url": "/game-2",
+                        "style": "link",
+                        "icon_class": "dev",
+                        "new_window": false,
+                        "no_follow": false,
+                        "type": "action"
+                    },
+                    {
+                        "label": "Game 3",
+                        "url": "/game-3",
                         "style": "link",
                         "icon_class": "dev",
                         "new_window": false,
@@ -47,7 +51,7 @@
             },
             {
                 "label": "Contact",
-                "url": "/style-guide",
+                "url": "/",
                 "style": "link",
                 "has_subnav": false
             },
@@ -57,20 +61,21 @@
                 "style": "primary",
                 "has_subnav": false
             }
-        ]
+        ],
+        "url": "/"
     },
     "footer": {
         "has_social": true,
         "social_links": [
             {
                 "label": "GitHub",
-                "url": "https://github.com/",
+                "url": "https://github.com/ksavva1/cog-tests",
                 "style": "icon",
                 "icon_class": "github",
                 "new_window": true
             }
         ],
-        "content": "Made by a very sleep deprived Katie"
+        "content": "Made by a very sleep deprived caffeine-fuelled Katie - please give me a shout if anything is broken"
     },
     "title": "Cognitive Tests",
     "domain": "https://cog-tests.netlify.app",

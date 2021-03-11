@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - section_id: hero
+  - section_id: Home Title
     type: section_hero
     title: Cognitive Tests
     image: images/brain-tumor-treatment-radiology-web.jpeg
@@ -17,19 +17,19 @@ sections:
     grid_items:
       - title: Cerebellum
         content: >
-          A summary of what the page would contain. Say, a bit of into about the
-          cerebellum or whatever you want.
+          A summary of what the page would contain. Text, info, brain facts,
+          anything.
         actions:
           - label: Learn More
-            url: /docs
+            url: /brain
             style: link
       - title: Tests
         content: >
           A summary of what the page would contain. Like an intro to the
-          cognitive tests or whatever you want.
+          cognitive tests etc.
         actions:
           - label: View Tests
-            url: /blog
+            url: /docs
             style: link
       - title: Something
         content: >
@@ -37,7 +37,7 @@ sections:
           your oyster. Go wild.
         actions:
           - label: Learn More
-            url: /style-guide
+            url: /
             style: link
   - section_id: text-img
     type: section_content
@@ -49,10 +49,10 @@ sections:
       fascinating information. Delirium you say? How intriguing.
     actions:
       - label: A button!
-        url: /docs/getting-started
+        url: /
         style: primary
       - label: Another button!
-        url: /docs/getting-started
+        url: /
         style: secondary
   - section_id: text-no-img
     type: section_content
@@ -63,7 +63,7 @@ sections:
       text text text text.
     actions:
       - label: More buttons
-        url: /docs/getting-started/installation
+        url: /
         style: primary
   - section_id: cta
     type: section_cta
@@ -71,11 +71,13 @@ sections:
     subtitle: Description of the important things
     actions:
       - label: Get Started
-        url: /docs/getting-started/installation
+        url: /
         style: primary
 seo:
-  title: Stackbit Libris Theme
-  description: The preview of the Libris theme
+  title: Cognitive Tests
+  description: >-
+    A selection of games to test cognition before, during, and after Covid-19
+    infection.
   extra:
     - name: 'og:type'
       value: website
