@@ -1,5 +1,5 @@
 ---
-title: Doc 1
+title: Overview
 sections:
   - title: Games Overview
     section_id: Intro
