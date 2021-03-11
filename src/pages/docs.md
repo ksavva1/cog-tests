@@ -1,7 +1,7 @@
 ---
 title: Overview Grid
 sections:
-  - title: lorem-ipsum
+  - title: Tests Overview
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
