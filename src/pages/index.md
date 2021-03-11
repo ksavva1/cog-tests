@@ -17,8 +17,8 @@ sections:
     grid_items:
       - title: Cerebellum
         content: >
-          A summary of what the page would contain. Say, a bit of into about the
-          cerebellum or whatever you want.
+          A summary of what the page would contain. Text, info, brain facts,
+          anything.
         actions:
           - label: Learn More
             url: /brain
